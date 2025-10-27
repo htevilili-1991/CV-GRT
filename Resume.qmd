@@ -1,12 +1,12 @@
 ---
 title: "Curriculum Vitae"
 format:
-  html:
-    toc: true
+  pdf:
+    pdf-engine: xelatex
     number-sections: true
     keep-tex: true
 css: resume.css
-format-links: [html]
+format-links: [pdf]
 ---
 
 ::: contact-block
@@ -109,4 +109,4 @@ format-links: [html]
 - **Behavioral Competencies:** Self-directed and time-driven, as shown by leading statistical analyses and database development under tight deadlines (e.g., Census data integration, Vodafone billing reports), with a reliable and honest character demonstrated through ongoing staff training and the creation of sustainable analytical tools for government use.
 - **Language Skills:** Fluent in English (written and oral), proficient in French, and fluent in oral Bislama with moderate writing skills, meeting the job’s language requirements and enabling effective communication across diverse government agencies.
 
-**Note:** This CV was built using R Quarto. The source code is available on <https://github.com/htevilili-1991/cv>. The online HTML version of this CV is accessible at <https://htevilili-1991.github.io/cv-html/>
+**Note:** This CV was built using R Quarto. The source code is available on <https://github.com/htevilili-1991/CV-GRT>. The online HTML version of this CV is accessible at <https://htevilili-1991.github.io/CV-GRT/>
