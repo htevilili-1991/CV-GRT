@@ -1,0 +1,112 @@
+---
+title: "Curriculum Vitae"
+format:
+  pdf:
+    pdf-engine: xelatex
+    number-sections: true
+    keep-tex: true
+css: resume.css
+format-links: [pdf]
+---
+
+::: contact-block
+**Name of Expert:** Herman Tevilili\
+**Email:** [htevilili@vanuatu.gov.vu](mailto:htevilili@vanuatu.gov.vu)\
+**Phone:** (678) 7693749\
+**Date of Birth:** 21/10/1991\
+**Country of Citizenship/Residence:** Vanuatu
+:::
+
+## Education
+
+**Bachelor’s Degree in Economic and Social Administration**\
+*Université Toulouse 1 Capitole, France* [*2019 --- 2021*]{.cvdate}\
+*Obtained*
+
+- Multidisciplinary program combining economics, computer science, and quantitative methods, enhancing skills in statistical analysis, programming, and data-driven decision-making for improving government processes and efficiency in Pacific Island contexts.
+
+**Bachelor of Mathematics and Computer Science**\
+*New Caledonia University, New Caledonia* [*2013 --- 2015*]{.cvdate}\
+*Not Obtained*
+
+- Developed foundational programming skills in database management and system optimization, enabling a smooth transition to mastering languages like R, Python, PHP, and SQL, as well as frameworks and tools (Laravel, CodeIgniter, Vue.JS, React.JS, Drupal, Joomla) for developing web applications and database solutions.
+
+## Employment Record Relevant to the Assignment {style="page-break-before: always"}
+
+### Statistician - Gender, Justice and Culture
+
+***Vanuatu Bureau of Statistics*** [*Feb 2022 --- Present*]{.cvdate}\
+*Contact: Mr. Charlington Leo, Principal Statistician, [cleo@vanuatu.gov.vu](mailto:cleo@vanuatu.gov.vu), +6785141550*
+
+- Leveraged R, SQL to manage and analyze data for the 2020 National Population and Housing Census[^1], producing tabulations, reports, and interactive dashboards to support government decision-making, including remuneration benchmarking and incentive-related insights (initiative approved by VBoS executive).
+- Led integration of Census and Civil Registration and Vital Statistics (CRVS) data for a Ministry of Finance Cash Transfer project pilot, using reproducible workflows (RAP, Git) and probabilistic matching techniques (nominated by Chief Statistician).
+- Collaborated with a technical advisor to develop Vanuatu Constituency Profiles in R, ensuring data quality and linkage across datasets for streamlined government reporting (initiative approved by VBoS executive).
+- Spearheaded digitization of the Public Service Commission Institutional Capacity Assessment using MS Forms with reproducible reporting via R Quarto and LaTeX[^2], enhancing data accessibility for remuneration analysis (nominated by Chief Statistician).
+- Spearheaded digitization of surveys for the Public Service Commission Customer Satisfaction survey using R and SQL (nominated by Chief Statistician).
+- Developed the Labour Mobility Schemes Registry (LMR)[^3], a Laravel (backend) and React.js (frontend) application with PostgreSQL[^4] integration for managing and visualizing labour mobility data, leveraging React.js as a single-page application (SPA) to load content dynamically, demonstrating web programming and database application development (initiative approved by VBoS executive).
+- Created the NSDP Dashboard [^5]using R, Shiny, Tableau, and Power BI for an internal staff competition, providing interactive visualizations (e.g., highcharter, Leaflet) and filterable data on households affected by shocks, applicable to statistical analysis for remuneration design (initiative approved by VBoS executive).
+- Developed a new VBoS website using Drupal[^6], later switched to Joomla due to IT staff maintenance limitations, showcasing web development skills (initiative approved by VBoS executive).
+- Developed the Culture Information System[^7] for the Vanuatu Cultural Center using CodeIgniter and MySQL, handed over to the Department of Communications and Digital Transformation for hosting (nominated by Chief Statistician).
+- Mentored VBoS staff in statistical tools (R, SQL, Shiny, Tableau, Power BI) and web development workflows, fostering capacity building for sustainable operations and team collaboration (initiative approved by VBoS executive).
+
+**Overall Objective:** Most tasks listed above were not part of my job description but rather self-initiated and approved by the VBoS executive[^8], while some were requested by other departments with the Chief Statistician nominating me to execute them[^9]. All personal initiatives were strategically aligned to advance digital transformation within the Vanuatu Bureau of Statistics, enhancing government efficiency, accessibility, and innovation through technology-driven solutions, with a focus on data analysis for public service remuneration and human resource management.
+
+[^1]: The 2020 National Population and Housing Census Volume 1 Version 2, with figures without correction factors.
+[^2]: LaTeX is a powerful markup language for document preparation. LaTeX automates typesetting for consistent, professional formatting.
+[^3]: Repo: <https://github.com/htevilili-1991/Labour-Mobility-Registry>. View LMR (credentials required to login): <https://lmr.laravel.cloud/>.
+[^4]: Initially developed with MySQL, but Laravel's flexibility enabled an easy migration to PostgreSQL.
+[^5]: Repo: <https://github.com/htevilili1991/NSDP-Dashbaord>. View dashboard: <https://herman-tevilili.shinyapps.io/NSDP-Dashboard/>
+[^6]: Screenshot: <https://freeimage.host/i/KwwzI2a>
+[^7]: Development completed and handed over to Department of Communications and Digital Transformation for hosting.
+[^8]: Labour Mobility Schemes Registry, VBoS website using Drupal, Culture Information System, NSDP Dashboard
+[^9]: Cash Transfer data integration, PSC Institutional Capacity Assessment digitization and automation of report writing, PSC Customer Satisfaction survey
+
+### Statistician Intern
+
+***Vanuatu Bureau of Statistics*** [*Jun 2021 --- Aug 2021*]{.cvdate}
+
+- Researched inferential statistics applications for national statistics offices, producing reproducible reports using R, SQL, and Adobe InDesign, aligning with SPC’s technical reporting standards.
+- Demonstrated data integration techniques, enhancing statistical workflows for regional development.
+
+### Value-Added Services & Billing Technician
+
+***Telecom Vanuatu Ltd*** [*Jun 2021 --- Aug 2021*]{.cvdate}\
+*Contact details available upon request*
+
+- Operated and maintained systems for statistics/reporting, billing, and provisioning, ensuring accurate data handling and reporting for financial reconciliation and incentive analysis.
+- Provided support to internal users of billing, provisioning, and statistics systems, troubleshooting faults and liaising with system suppliers for corrections, enhancing operational efficiency in compensation-related data management.
+- Ensured all telecom services offered by TVL were charged correctly without breaks or errors, using SQL queries for data integrity checks relevant to remuneration benchmarking.
+- Maintained TVL ERP data warehouse reporting system (database: Oracle) and designed/administered scheduled reports for Finance, Marketing, Technical, and other departments using BusinessObjects (BO), supporting statistical analysis and reporting for incentive design.
+- Troubleshot issues in cases of faults, identifying errors and implementing new offers, packages, and price plans, with direct applicability to job evaluation and remuneration adjustments.
+- Ran TVL mid-month and end-of-month billing reports for Finance department reconciliations, demonstrating proficiency in generating precise financial and compensation data reports.
+
+### IT Technician, Web Developer & Tutor
+
+***Computer Network Services*** [*2013 --- 2015*]{.cvdate}\
+*Contact details available upon request*
+
+- Designed dynamic websites with databases (HTML, CSS, JavaScript, PHP), integrating data systems for efficient management.
+- Tutored individuals in IT and data management, building technical capacity for diverse teams, aligning with SPC’s training requirements.
+
+## Language Skills
+
+| Language | Written Proficiency | Oral Proficiency |
+|----------|---------------------|------------------|
+| English  | Fluent              | Fluent           |
+| French   | Proficient          | Proficient       |
+| Bislama  | Moderate            | Fluent           |
+
+## Interpersonal Skills and Cultural Awareness
+
+- Demonstrated ability to work effectively with diverse teams across national and cultural backgrounds, fostering collaboration in multicultural settings as required by government roles.
+
+## Adequacy for the Position
+
+- **Qualifications:** Bachelor’s degree in Economic and Social Administration with a strong quantitative focus, complemented by advanced training in mathematics, computer science, and programming, meeting the job requirement for a degree in Economics, Finance, Business Administration, Human Resource Management, or related fields. Extensive expertise in R for data analysis, Power BI and Tableau for data visualization, R Shiny for interactive dashboards, and machine learning with Python, compensating for any specific specialization and supporting remuneration benchmarking and job evaluation.
+- **Experience:** Over five years of experience in roles involving advanced statistical analysis, data integration, and government process improvements, including leading the 2020 Census data analysis and CRVS integration at VBoS using R, SQL, Tableau, and Power BI, and managing billing data analytics at Vodafone Vanuatu with BusinessObjects and Oracle databases. This experience directly aligns with the need for expertise in employment remuneration, job evaluation using point method systems, and knowledge of Government Smart Stream System through data-driven projects.
+- **Thinking Style:** Practical problem solver with a proven ability to apply statistical and analytical methods, demonstrated by conducting complex data analyses with R, optimizing workflows with R, SQL, Tableau, and Power BI, developing interactive dashboards with R Shiny for remuneration insights, and applying machine learning with Python for predictive modeling, ensuring effectiveness in remuneration benchmarking, incentive design, and job evaluation.
+- **Communication and Interpersonal Skills:** Strong written and oral communication skills, evidenced by producing reproducible statistical reports with R Quarto and LaTeX, mentoring VBoS staff in R for data analysis, Power BI and Tableau for visualization, and R Shiny for dashboards, and collaborating with diverse teams on projects like the PSC Institutional Capacity Assessment and NSDP Dashboard, showcasing a team-player approach with honesty and trustworthiness in handling sensitive remuneration data.
+- **Behavioral Competencies:** Self-directed and time-driven, as shown by leading statistical analyses and database development under tight deadlines (e.g., Census data integration, Vodafone billing reports), with a reliable and honest character demonstrated through ongoing staff training and the creation of sustainable analytical tools for government use.
+- **Language Skills:** Fluent in English (written and oral), proficient in French, and fluent in oral Bislama with moderate writing skills, meeting the job’s language requirements and enabling effective communication across diverse government agencies.
+
+**Note:** This CV was built using R Quarto. The source code is available on <https://github.com/htevilili-1991/cv>. The online HTML version of this CV is accessible at <https://htevilili-1991.github.io/cv-html/>
