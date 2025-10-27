@@ -1,12 +1,12 @@
 ---
 title: "Curriculum Vitae"
 format:
-  pdf:
-    pdf-engine: xelatex
+  html:
+    toc: true
     number-sections: true
     keep-tex: true
 css: resume.css
-format-links: [pdf]
+format-links: [html]
 ---
 
 ::: contact-block
